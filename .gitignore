@@ -1,0 +1,5 @@
+# Project exclude paths
+/build/msvc_x64-debug/
+/build/msvc_x64-release/
+/build/msvc_x86-debug/
+/build/msvc_x86-release/

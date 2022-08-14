@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MSVC_x86" ENABLED="true" GENERATION_DIR="build/msvc_x86-debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MSVC_x86" />
+      <configuration PROFILE_NAME="Release-MSVC_x86" ENABLED="true" GENERATION_DIR="build/msvc_x86-release" CONFIG_NAME="Release" TOOLCHAIN_NAME="MSVC_x86" />
+      <configuration PROFILE_NAME="Debug-MSVC_x64" ENABLED="true" GENERATION_DIR="build/msvc_x64-debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MSVC_x64" />
+      <configuration PROFILE_NAME="Release-MSVC_x64" ENABLED="true" GENERATION_DIR="build/msvc_x64-release" CONFIG_NAME="Release" TOOLCHAIN_NAME="MSVC_x64" />
+    </configurations>
+  </component>
+</project>
